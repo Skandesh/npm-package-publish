@@ -1,0 +1,23 @@
+{
+  "name": "simple-sample-dimple",
+  "version": "1.0.0",
+  "description": "Learning to publish packages to npm registry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skandesh/npm-package-publish.git"
+  },
+  "keywords": [
+    "jff",
+    "learning"
+  ],
+  "author": "Skandesh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Skandesh/npm-package-publish/issues"
+  },
+  "homepage": "https://github.com/Skandesh/npm-package-publish#readme"
+}
